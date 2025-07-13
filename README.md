@@ -1,44 +1,48 @@
-🏢 Virtue Vista Website Clone – Internship Project
-🔗 Live Demo: https://sri0899.github.io/virtue-vista/
+# Virtue Vista Website Clone – Internship Project
 
-This project is a frontend clone of the Virtue Vista real estate website, created as part of my Web Development Internship at Virtue Vista. It replicates the design and structure of the company's original site using HTML and CSS. The goal of this internship task was to understand real-world web layout and responsive design practices.
+**🔗 Live Demo:** [https://sri0899.github.io/virtue-vista/](https://sri0899.github.io/virtue-vista/)
 
-📌 Project Highlights
-🎯 Internship Task – Developed during a real-world internship experience
+This project is a frontend clone of the Virtue Vista website, created during my Web Development Internship. The website was built using only HTML and CSS to demonstrate a real-world layout for a real estate company focused on industrial property in Tamil Nadu.
 
-💻 Frontend Only – Built with HTML5 and CSS3 (no frameworks or backend)
+## 🧩 Features
 
-📱 Fully Responsive – Optimized for desktop, tablet, and mobile views
+- Developed as an official internship task
+- Fully responsive across devices (mobile, tablet, desktop)
+- Clean, modern layout for real estate promotion
+- Easy navigation and clear content structure
+- Hosted via GitHub Pages
 
-🧭 Professional Layout – Clean structure, modern UI, and easy navigation
+## 🛠 Tech Stack
 
-🏗️ Real Estate Focused – Showcases industrial property and business branding
+- HTML5
+- CSS3
+- GitHub Pages (Deployment)
 
-🔧 Tech Stack
-Technology	Purpose
-HTML5	Structure and content
-CSS3	Styling and responsiveness
-GitHub Pages	Deployment and hosting
+## 📁 Folder Structure
 
-📁 Folder Structure
-bash
+virtue-vista/
+├── index.html → Main webpage
+├── style.css → Styling
+└── images/ → Optional (for assets)
+
+markdown
 Copy
 Edit
-virtue-vista/
-├── index.html          # Main homepage
-├── style.css           # Custom styles
-└── images/             # Assets and images (if any)
-📷 Preview
-(You can add a screenshot here for visual reference)
-Example: ![Website Preview]<img width="1866" height="896" alt="image" src="https://github.com/user-attachments/assets/6e8de73f-1904-40c7-bc10-a1e3c8a212f7" />
+
+## 📸 Preview
+
+`<img width="1898" height="901" alt="image" src="https://github.com/user-attachments/assets/ec04f2e7-abe8-4848-88e9-6f02770616c0" />
 
 
-📄 License
-This project was developed for educational and training purposes during my internship and does not represent any official branding or commercial deployment by Virtue Vista.
+## 👨‍💻 Author
 
-🙋‍♂️ Author
-Sridhar R
-Intern – Web Development
-📍 Coimbatore, India
-📫 sridhar01122005@gmail.com
-🔗 GitHub | Portfolio
+**Sridhar R**  
+Web Development Intern  
+📍 Coimbatore, India  
+📧 sridhar01122005@gmail.com  
+🌐 [Portfolio](https://crazysri619.wixsite.com/sridhar-1)  
+🐙 [GitHub](https://github.com/sri0899)
+
+## 📄 License
+
+This project is for educational purposes as part of my internship and does not represent the official site or branding of Virtue Vista.
