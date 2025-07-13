@@ -13,16 +13,17 @@
   <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 </head>
 <body>
+
   <!-- NAVIGATION -->
   <nav>
-    <a href="#">Home</a>
-    <a href="#">About</a>
-    <a href="#">Locations</a>
-    <a href="#">Contact</a>
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#locations">Locations</a>
+    <a href="#contact">Contact</a>
   </nav>
 
   <!-- BANNER -->
-  <div class="banner" style="background-image: url('hero_home-YX4lkg35KxFGKqX3.avif');">
+  <div class="banner" id="home" style="background-image: url('hero_home-YX4lkg35KxFGKqX3.avif');">
     <div class="banner-text" data-aos="fade-up">
       <h1>Industrial land for factory setup in</h1>
       <h2>Tamil Nadu’s Growth Corridors</h2>
@@ -32,7 +33,7 @@
   </div>
 
   <!-- SECOND SLIDE -->
-  <div class="banner second-slide" style="background-image: url('img/hero_home-YX4lkg35KxFGKqX3');">
+  <div class="banner second-slide">
     <div class="banner-text" data-aos="fade-left">
       <h1>Smart Investment in Industrial Real Estate</h1>
       <h2>High ROI with Infrastructure-Ready Zones</h2>
@@ -42,7 +43,7 @@
   </div>
 
   <!-- SERVICES -->
-  <section class="services" data-aos="fade-up">
+  <section class="services" id="about" data-aos="fade-up">
     <h3>Why Choose Our Industrial Land?</h3>
     <ul>
       <li><strong>Strategic Location:</strong> Close to highways, ports, and logistics parks.</li>
@@ -53,7 +54,7 @@
   </section>
 
   <!-- LOCATIONS -->
-  <section class="locations" data-aos="fade-up">
+  <section class="locations" id="locations" data-aos="fade-up">
     <h3>Key Industrial Zones</h3>
     <div class="zone-grid">
       <div>
@@ -112,7 +113,7 @@
   </section>
 
   <!-- CONTACT -->
-  <section class="contact" data-aos="fade-up">
+  <section class="contact" id="contact" data-aos="fade-up">
     <h3>Contact Our Team</h3>
     <form action="https://formspree.io/f/yourformid" method="POST">
       <input type="text" name="name" placeholder="Your Name" required />
